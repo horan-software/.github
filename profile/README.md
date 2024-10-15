@@ -1,2 +1,1 @@
-## Moved to [@horansoftware
-](https://github.com/horansoftware)
+## Moved to [@horansoftware](https://github.com/horansoftware)
